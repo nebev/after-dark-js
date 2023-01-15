@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" media="all" href="mm.css">
+    <link rel="stylesheet" href="https://unpkg.com/98.css">
+    <title>Mowin' Man</title>
+</head>
+
+<body>
+    <div id="night-overlay" class="day"></div>
+    <canvas id="canvas" width="1024" height="768"></canvas>
+    <div id="settings" class="window">
+        <div class="title-bar">
+            <div class="title-bar-text">Mowin' Man</div>
+            <div class="title-bar-controls">
+                <button id="closeControls" aria-label="Close"></button>
+            </div>
+        </div>
+        <fieldset>
+            <div class="ro setting">
+                <label for="speed">Speed:</label>
+                <select id="speed">
+                    <option value="1">Pokey</option>
+                    <option value="4">Normal</option>
+                    <option value="10">Hurried</option>
+                    <option value="30">Menace</option>
+                </select>
+            </div>
+            <div class="setting">
+                <input id="mowEveryDays" type="range" min="0" max="7" />
+                <label for="mowEveryDays">Mow Every: <span id="mowEveryDaysFriendly" style="margin-left:5px;"></span></label>
+            </div>
+            <div class="setting row">
+                <input type="checkbox" id="clearScreen">
+                <label for="clearScreen">Clear Screen First</label>
+            </div>
+            <div class="setting">
+                <input id="grassSpeed" type="range" min="1" max="4" />
+                <label for="grassSpeed">Growth Rate: <span id="grassSpeedFriendly" style="margin-left:5px;"></span></label>
+            </div>
+        </fieldset>
+        <div class="status-bar">
+            <p class="status-bar-field">Lovingly recreated by nebev</p>
+          </div>
+    </div>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+</html>

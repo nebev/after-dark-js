@@ -1,0 +1,140 @@
+{"frames": {
+
+"flower-1.png":
+{
+	"frame": {"x":0,"y":0,"w":18,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":16},
+	"sourceSize": {"w":18,"h":16}
+},
+"flower-2.png":
+{
+	"frame": {"x":18,"y":0,"w":12,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":20},
+	"sourceSize": {"w":12,"h":20}
+},
+"flower-3.png":
+{
+	"frame": {"x":30,"y":0,"w":18,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":15},
+	"sourceSize": {"w":18,"h":15}
+},
+"flower-4.png":
+{
+	"frame": {"x":48,"y":0,"w":23,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":20},
+	"sourceSize": {"w":23,"h":20}
+},
+"flower-5.png":
+{
+	"frame": {"x":71,"y":0,"w":20,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":22},
+	"sourceSize": {"w":20,"h":22}
+},
+"grass-1.png":
+{
+	"frame": {"x":91,"y":0,"w":1,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":7},
+	"sourceSize": {"w":1,"h":7}
+},
+"grass-2.png":
+{
+	"frame": {"x":92,"y":0,"w":1,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":4},
+	"sourceSize": {"w":1,"h":4}
+},
+"grass-3.png":
+{
+	"frame": {"x":93,"y":0,"w":1,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":4},
+	"sourceSize": {"w":1,"h":4}
+},
+"grass-4.png":
+{
+	"frame": {"x":94,"y":0,"w":1,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":2},
+	"sourceSize": {"w":1,"h":2}
+},
+"grass-5.png":
+{
+	"frame": {"x":95,"y":0,"w":1,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":3},
+	"sourceSize": {"w":1,"h":3}
+},
+"grass-6.png":
+{
+	"frame": {"x":96,"y":0,"w":1,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":3},
+	"sourceSize": {"w":1,"h":3}
+},
+"grass-7.png":
+{
+	"frame": {"x":97,"y":0,"w":1,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":2},
+	"sourceSize": {"w":1,"h":2}
+},
+"mowin-left.png":
+{
+	"frame": {"x":0,"y":22,"w":101,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":100},
+	"sourceSize": {"w":101,"h":100}
+},
+"mowin-right.png":
+{
+	"frame": {"x":0,"y":334,"w":101,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":100},
+	"sourceSize": {"w":101,"h":100}
+},
+"mowin-down.png":
+{
+	"frame": {"x":0,"y":122,"w":65,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":122},
+	"sourceSize": {"w":65,"h":122}
+},
+"mowin-up.png":
+{
+	"frame": {"x":0,"y":244,"w":71,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":90},
+	"sourceSize": {"w":71,"h":90}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mm.png",
+	"format": "RGBA8888",
+	"size": {"w":101,"h":334},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a3ef84b08992b801e3d358a4dc6cd034:0b86bc84e4c1ea4074ed14bd8edc7f29:54fb9d6ad31d0b5a385fdc5104de478d$"
+}
+}
